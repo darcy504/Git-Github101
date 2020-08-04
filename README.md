@@ -7,5 +7,4 @@ Staging Area
 Repository
 
 #Commands for moving through states of Git
-
-#This is My Name
+git init
